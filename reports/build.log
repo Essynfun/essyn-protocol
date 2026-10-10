@@ -1,0 +1,6 @@
+
+> essyn@1.0.0 build
+> node scripts/build.mjs
+
+built -> dist
+assets: {"bbox":{"x0":495,"y0":597,"x1":1502,"y1":1401,"w":1008,"h":805},"side":1129,"sizes":{"64":{"edgePixels":885,"darkEdgePixels":16},"128":{"edgePixels":1822,"darkEdgePixels":69},"512":{"edgePixels":8764,"darkEdgePixels":1147}},"favicon":{"bytes":1708,"pathLength":1476}}

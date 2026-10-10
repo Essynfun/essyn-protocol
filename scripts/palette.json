@@ -1,0 +1,8 @@
+[
+  { "token": "--c-black",    "hex": "#000000", "file": "brand/LOGO ESSYN PNG.png", "x": 0,    "y": 0 },
+  { "token": "--c-white",    "hex": "#fdfdfd", "file": "brand/LOGO ESSYN PNG.png", "x": 1017, "y": 605 },
+  { "token": "--c-silver",   "hex": "#c5c5c5", "file": "brand/LOGO ESSYN PNG.png", "x": 1006, "y": 600 },
+  { "token": "--c-mid",      "hex": "#7f7f7f", "file": "brand/LOGO ESSYN PNG.png", "x": 1052, "y": 606 },
+  { "token": "--c-graphite", "hex": "#3e3e3e", "file": "brand/LOGO ESSYN PNG.png", "x": 1013, "y": 599 },
+  { "token": "--c-ghost",    "hex": "#212121", "file": "reference/SAMPUL ESSYN JPG.jpg.jpeg", "x": 1324, "y": 0 }
+]

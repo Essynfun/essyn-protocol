@@ -1,0 +1,58 @@
+/*
+ * Design tokens. This is the ONLY file allowed to hold colour literals.
+ *
+ * Palette provenance: k-means (k=5, farthest-point seeding, 24 iterations) over the
+ * 5-bit-quantised colours of brand/LOGO ESSYN PNG.png and reference/SAMPUL ESSYN JPG.jpg.jpeg,
+ * every centroid then snapped to the nearest colour that really occurs in the file.
+ * Each value below was re-read from the pixel at the stated coordinate (x,y from top-left).
+ *   black     #000000  LOGO ESSYN PNG.png            (0,0)       93.15% of pixels, background
+ *   white     #fdfdfd  LOGO ESSYN PNG.png            (1017,605)  the mark itself, 6.59%
+ *   silver    #c5c5c5  LOGO ESSYN PNG.png            (1006,600)  anti-aliased edge ramp
+ *   mid       #7f7f7f  LOGO ESSYN PNG.png            (1052,606)  anti-aliased edge ramp
+ *   graphite  #3e3e3e  LOGO ESSYN PNG.png            (1013,599)  anti-aliased edge ramp
+ *   ghost     #212121  SAMPUL ESSYN JPG.jpg.jpeg     (1324,0)    the ghosted mark in the banner
+ * The same coordinates are re-verified by `npm run gates` (scripts/palette.json).
+ */
+:root {
+  --c-black: #000000;
+  --c-white: #fdfdfd;
+  --c-silver: #c5c5c5;
+  --c-mid: #7f7f7f;
+  --c-graphite: #3e3e3e;
+  --c-ghost: #212121;
+
+  --bg: var(--c-black);
+  --ink: var(--c-white);
+  --ink-2: var(--c-silver);
+  --ink-3: var(--c-mid);
+  --surface: color-mix(in srgb, var(--c-ghost) 55%, var(--c-black));
+  --surface-2: var(--c-ghost);
+  --line: color-mix(in srgb, var(--c-white) 9%, transparent);
+  --line-2: color-mix(in srgb, var(--c-white) 18%, transparent);
+  --glow: color-mix(in srgb, var(--c-silver) 20%, transparent);
+  --glow-2: color-mix(in srgb, var(--c-mid) 18%, transparent);
+  --glow-3: color-mix(in srgb, var(--c-graphite) 40%, transparent);
+  --card-bg: var(--c-white);
+  --card-ink: var(--c-black);
+  --card-ink-2: var(--c-graphite);
+  --card-ink-3: var(--c-mid);
+  --card-line: color-mix(in srgb, var(--c-black) 12%, transparent);
+  --shadow-card: 0 0 0 1px var(--line), 0 2px 4px color-mix(in srgb, var(--c-black) 40%, transparent), 0 24px 60px -12px color-mix(in srgb, var(--c-silver) 18%, transparent);
+
+  --font-sans: "Montserrat Variable", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "JetBrains Mono Variable", ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  /* measured on the reference: --ease-out and --default-transition-* */
+  --ease-out: cubic-bezier(.2, .8, .2, 1);
+  --ease-ui: cubic-bezier(.4, 0, .2, 1);
+  /* damped spring (zeta .55, omega 9) sampled into a CSS easing */
+  --spring: linear(0, 0.0686, 0.2317, 0.4349, 0.6379, 0.8149, 0.9526, 1.0473, 1.1022, 1.1246, 1.123, 1.1063, 1.082, 1.0559, 1.0319, 1.0124, 0.9982, 0.9893, 0.985, 0.9841, 0.9855, 0.9883, 0.9916, 0.9948, 0.9975, 0.9996, 1.001, 1.0017, 1.002, 1.0019, 1.0016, 1.0012, 1.0008, 1.0004, 1.0001, 0.9999, 1);
+  --t-ui: .15s;
+  --radius-pill: 999px;
+  --radius-panel: 22px;
+  --radius-card: 26px;
+  --radius-tile: 16px;
+  --gutter: 20px;
+  --gutter-lg: 32px;
+  --container: 1120px;
+}

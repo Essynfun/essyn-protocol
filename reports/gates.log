@@ -1,0 +1,88 @@
+
+> essyn@1.0.0 gates
+> node scripts/gates.mjs
+
+PASS  [dist] register-valid (rule 1)
+PASS  [dist] register-dom (rule 1,2)
+PASS  [dist] link-rule (rule 2)
+PASS  [dist] address-scan (rule 3)
+PASS  [dist] palette (rule 4)
+PASS  [dist] dist-contents (rule -)
+PASS  [dist] market-module (rule 1,2)
+PASS  [dist] no-visible-dates (rule -)
+PASS  [dist] copy-original (rule -)
+PASS  [repo] repo-hygiene (rule 5)
+PASS  [branch A (inert)] contract slot renders inert and dated
+PASS  [branch A (inert)] no address-shaped string anywhere in output
+PASS  [branch A (inert)] x and github icons render at every breakpoint but inert (no href)
+PASS  [branch A (inert)] register-valid
+PASS  [branch A (inert)] register-dom
+PASS  [branch A (inert)] link-rule
+PASS  [branch A (inert)] address-scan
+PASS  [branch A (inert)] palette
+PASS  [branch A (inert)] dist-contents
+PASS  [branch A (inert)] market-module
+PASS  [branch A (inert)] no-visible-dates
+PASS  [branch A (inert)] copy-original
+PASS  [branch B (stated)] build accepts a stated contract and stated socials
+PASS  [branch B (stated)] contract slot shows the full address, live copy control
+PASS  [branch B (stated)] x and github are links with href = stored url, handle derived
+PASS  [branch B (stated)] registry json handed to the page carries the stated contract
+PASS  [branch B (stated)] clipboard + rpc wiring present in app.js
+PASS  [branch B (stated)] register-valid
+PASS  [branch B (stated)] register-dom
+PASS  [branch B (stated)] link-rule
+PASS  [branch B (stated)] address-scan
+PASS  [branch B (stated)] palette
+PASS  [branch B (stated)] dist-contents
+PASS  [branch B (stated)] market-module
+PASS  [branch B (stated)] no-visible-dates
+PASS  [branch B (stated)] copy-original
+PASS  [negative] stray unregistered Solana address in page is caught
+PASS  [negative] removing the stray restores a clean scan
+PASS  [negative] address in page while contract is unstated is caught
+PASS  [negative] href on an unstated social record is caught (register)
+PASS  [negative] href on an unstated social record is caught (link rule)
+PASS  [rule 3] registry accepts a stated 0x address record
+PASS  [rule 3] stated 0x address + short hex constants + 32-byte hash all pass
+PASS  [rule 3] an unregistered 0x address is caught
+PASS  [rule 1] inert ca carrying value is refused at build
+PASS  [rule 1] inert x carrying url is refused at build
+PASS  [rule 1] inert github carrying url is refused at build
+PASS  [rule 1] inert m.score carrying value is refused at build
+PASS  [rule 1] malformed contract value is refused at build
+PASS  [rule 2] a stored handle is refused (handles are derived from the url)
+PASS  [rule 2] a social url on the wrong host is refused
+PASS  [rule 1] unconfirmed contract builds inert and dated
+PASS  [market] market source not stated: module is inert (no fetch code, no host)
+PASS  [market] market host leaking into an inert build is caught
+PASS  [market] contract absent: market module is still live
+PASS  [market] contract stated: market module is live too
+PASS  [market] contract stated but market source unconfirmed: stays inert
+PASS  [dates] a visible date is caught
+PASS  [market] inert market record may not carry url or imageHost
+PASS  [market (browser)] skeleton rows and skeleton marquee show first, status pill is loading
+PASS  [market (browser)] contract absent, feed still live: ten rows, solana only, ordered by 24h volume (deepest pair), skeletons gone
+PASS  [market (browser)] contract slot stays inert while the feed is live
+PASS  [market (browser)] count-up lands on the formatted figures: price, 24h change, volume, liquidity
+PASS  [market (browser)] letter tile when imageUrl is missing or off the stated image host
+PASS  [market (browser)] marquee uses the same data, doubled for a seamless loop, clones hidden from assistive tech
+PASS  [market (browser)] status pill turns live with a pulsing dot
+PASS  [market (browser)] per-row button sends that token address to the clipboard, with feedback
+PASS  [market (browser)] row buttons are 44x44
+PASS  [market (browser)] hero badge: top 3 movers from the shared feed (logo, name, price), contract absent
+PASS  [market (browser)] hero badge: four score bars filled from live market data, values counted up
+PASS  [market (browser)] hero badge: live block height from the stated rpc, no skeleton left
+PASS  [market (browser)] spotlight follows the pointer over a row
+PASS  [market (browser)] block height keeps climbing between polls
+PASS  [market (browser)] a changed value flashes on refresh (and rows are updated in place)
+PASS  [market (browser)] prefers-reduced-motion: figures are instant and every animation collapses
+PASS  [market (browser)] backoff doubles 1s, 2s, 4s, 8s across five attempts, then stops
+PASS  [market (browser)] after the last failure: dashes in every cell, error pill, retry offered, marquee shows the error
+PASS  [market (browser)] market source unstated: no request reaches the api, controls disabled, slots pending, no marquee track
+PASS  [rule 4] hex literal outside tokens.css is caught
+PASS  [rule 4] rgb() literal outside tokens.css is caught
+PASS  [copy] a shared 2-gram is caught
+
+81/81 gates passed
+gates_exit=0

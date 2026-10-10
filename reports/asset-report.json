@@ -1,0 +1,976 @@
+[
+  {
+    "file": "brand\\LOGO ESSYN JPG.jpg.jpeg",
+    "bytes": 110932,
+    "kind": "jpeg",
+    "sof": {
+      "precision": 8,
+      "height": 2000,
+      "width": 2000,
+      "components": 3
+    },
+    "note": "JPEG carries no alpha channel",
+    "size": [
+      2000,
+      2000
+    ],
+    "alpha": {
+      "hist16": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4000000
+      ],
+      "fullyTransparent": 0,
+      "fullyOpaque": 4000000,
+      "partial": 0,
+      "pureBlackTransparent": 0
+    },
+    "dominant": [
+      "#000000 x3716981",
+      "#fefefe x213403",
+      "#fdfdfd x17066",
+      "#fbfbfb x4751",
+      "#fcfcfc x3752",
+      "#ffffff x3716",
+      "#fafafa x3244",
+      "#010101 x2560"
+    ],
+    "kmeans": [
+      {
+        "centroid": "#000000",
+        "snapped": "#000000",
+        "at": [
+          0,
+          0
+        ],
+        "share": 93.15
+      },
+      {
+        "centroid": "#fdfdfd",
+        "snapped": "#fdfdfd",
+        "at": [
+          1023,
+          604
+        ],
+        "share": 6.59
+      },
+      {
+        "centroid": "#c5c5c5",
+        "snapped": "#c5c5c5",
+        "at": [
+          1006,
+          600
+        ],
+        "share": 0.1
+      },
+      {
+        "centroid": "#3e3e3e",
+        "snapped": "#3e3e3e",
+        "at": [
+          1013,
+          599
+        ],
+        "share": 0.09
+      },
+      {
+        "centroid": "#807f7f",
+        "snapped": "#7f7f7f",
+        "at": [
+          1052,
+          606
+        ],
+        "share": 0.07
+      }
+    ]
+  },
+  {
+    "file": "brand\\LOGO ESSYN PNG...png",
+    "bytes": 219653,
+    "kind": "png",
+    "ihdr": {
+      "width": 2000,
+      "height": 2000,
+      "bitDepth": 8,
+      "colourType": 6,
+      "colourTypeName": "truecolour+alpha",
+      "interlace": 0
+    },
+    "chunks": "IHDR:13 eXIf:180 pHYs:9 iTXt:1349 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:8192 IDAT:4718 IEND:0",
+    "size": [
+      2000,
+      2000
+    ],
+    "alpha": {
+      "hist16": [
+        3722920,
+        1983,
+        1280,
+        931,
+        859,
+        842,
+        756,
+        722,
+        796,
+        745,
+        788,
+        858,
+        1046,
+        1340,
+        2144,
+        261990
+      ],
+      "fullyTransparent": 3718220,
+      "fullyOpaque": 253438,
+      "partial": 28342,
+      "pureBlackTransparent": 3718220
+    },
+    "dominant": [
+      "#fdfdfd x83324",
+      "#fefefe x48537",
+      "#fefdfe x40645",
+      "#fdfcfd x13092",
+      "#fdfefd x12606",
+      "#fdfdfe x8850",
+      "#fefdfd x5541",
+      "#fcfcfc x4119"
+    ],
+    "kmeans": [
+      {
+        "centroid": "#fdfdfd",
+        "snapped": "#fdfdfd",
+        "at": [
+          975,
+          601
+        ],
+        "share": 96.14
+      },
+      {
+        "centroid": "#bdb8b7",
+        "snapped": "#bdb7b7",
+        "at": [
+          578,
+          872
+        ],
+        "share": 1.72
+      },
+      {
+        "centroid": "#6e6a6b",
+        "snapped": "#706a6a",
+        "at": [
+          920,
+          614
+        ],
+        "share": 1.27
+      },
+      {
+        "centroid": "#0e0c0c",
+        "snapped": "#121212",
+        "at": [
+          1100,
+          780
+        ],
+        "share": 0.87
+      },
+      {
+        "centroid": "#ffff00",
+        "snapped": "#ffff00",
+        "at": [
+          867,
+          1241
+        ],
+        "share": 0
+      }
+    ]
+  },
+  {
+    "file": "brand\\LOGO ESSYN PNG.png",
+    "bytes": 212484,
+    "kind": "png",
+    "ihdr": {
+      "width": 2000,
+      "height": 2000,
+      "bitDepth": 8,
+      "colourType": 6,
+      "colourTypeName": "truecolour+alpha",
+      "interlace": 0
+    },
+    "chunks": "IHDR:13 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:4096 IDAT:2901 IDAT:6 IEND:0",
+    "size": [
+      2000,
+      2000
+    ],
+    "alpha": {
+      "hist16": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4000000
+      ],
+      "fullyTransparent": 0,
+      "fullyOpaque": 4000000,
+      "partial": 0,
+      "pureBlackTransparent": 0
+    },
+    "dominant": [
+      "#000000 x3717984",
+      "#fefefe x213618",
+      "#fdfdfd x17522",
+      "#fcfbfc x3477",
+      "#fcfcfc x3461",
+      "#ffffff x2883",
+      "#fafafa x2123",
+      "#f9f9f9 x1979"
+    ],
+    "kmeans": [
+      {
+        "centroid": "#000000",
+        "snapped": "#000000",
+        "at": [
+          0,
+          0
+        ],
+        "share": 93.15
+      },
+      {
+        "centroid": "#fdfdfd",
+        "snapped": "#fdfdfd",
+        "at": [
+          1017,
+          605
+        ],
+        "share": 6.59
+      },
+      {
+        "centroid": "#c5c5c5",
+        "snapped": "#c5c5c5",
+        "at": [
+          1006,
+          600
+        ],
+        "share": 0.1
+      },
+      {
+        "centroid": "#3e3e3e",
+        "snapped": "#3e3e3e",
+        "at": [
+          1013,
+          599
+        ],
+        "share": 0.09
+      },
+      {
+        "centroid": "#7f7f7f",
+        "snapped": "#7f7f7f",
+        "at": [
+          1052,
+          606
+        ],
+        "share": 0.07
+      }
+    ]
+  },
+  {
+    "file": "reference\\ESSYN 1.jpg.jpeg",
+    "bytes": 87836,
+    "kind": "jpeg",
+    "sof": {
+      "precision": 8,
+      "height": 900,
+      "width": 1600,
+      "components": 3
+    },
+    "note": "JPEG carries no alpha channel",
+    "size": [
+      1600,
+      900
+    ],
+    "alpha": {
+      "hist16": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1440000
+      ],
+      "fullyTransparent": 0,
+      "fullyOpaque": 1440000,
+      "partial": 0,
+      "pureBlackTransparent": 0
+    },
+    "dominant": [
+      "#000000 x1245133",
+      "#fdfdfd x33785",
+      "#ffffff x30394",
+      "#010101 x20518",
+      "#020202 x10853",
+      "#fefefe x9512",
+      "#030303 x6632",
+      "#040404 x4305"
+    ],
+    "kmeans": [
+      {
+        "centroid": "#000000",
+        "snapped": "#000000",
+        "at": [
+          0,
+          0
+        ],
+        "share": 91.6
+      },
+      {
+        "centroid": "#fdfdfd",
+        "snapped": "#fdfdfd",
+        "at": [
+          131,
+          43
+        ],
+        "share": 6.27
+      },
+      {
+        "centroid": "#707070",
+        "snapped": "#707070",
+        "at": [
+          206,
+          18
+        ],
+        "share": 0.9
+      },
+      {
+        "centroid": "#393939",
+        "snapped": "#393939",
+        "at": [
+          140,
+          43
+        ],
+        "share": 0.67
+      },
+      {
+        "centroid": "#bdbdbd",
+        "snapped": "#bdbdbd",
+        "at": [
+          287,
+          40
+        ],
+        "share": 0.56
+      }
+    ]
+  },
+  {
+    "file": "reference\\ESSYN 2.jpg.jpeg",
+    "bytes": 86068,
+    "kind": "jpeg",
+    "sof": {
+      "precision": 8,
+      "height": 900,
+      "width": 1600,
+      "components": 3
+    },
+    "note": "JPEG carries no alpha channel",
+    "size": [
+      1600,
+      900
+    ],
+    "alpha": {
+      "hist16": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1440000
+      ],
+      "fullyTransparent": 0,
+      "fullyOpaque": 1440000,
+      "partial": 0,
+      "pureBlackTransparent": 0
+    },
+    "dominant": [
+      "#000000 x1245218",
+      "#fdfdfd x33950",
+      "#ffffff x31533",
+      "#010101 x20425",
+      "#020202 x10895",
+      "#fefefe x9829",
+      "#030303 x6702",
+      "#040404 x4032"
+    ],
+    "kmeans": [
+      {
+        "centroid": "#000000",
+        "snapped": "#000000",
+        "at": [
+          0,
+          0
+        ],
+        "share": 91.52
+      },
+      {
+        "centroid": "#fdfdfd",
+        "snapped": "#fdfdfd",
+        "at": [
+          131,
+          43
+        ],
+        "share": 6.37
+      },
+      {
+        "centroid": "#717170",
+        "snapped": "#717171",
+        "at": [
+          207,
+          18
+        ],
+        "share": 0.92
+      },
+      {
+        "centroid": "#3a3a39",
+        "snapped": "#3a3a3a",
+        "at": [
+          72,
+          44
+        ],
+        "share": 0.65
+      },
+      {
+        "centroid": "#bcbcbc",
+        "snapped": "#bcbcbc",
+        "at": [
+          271,
+          41
+        ],
+        "share": 0.54
+      }
+    ]
+  },
+  {
+    "file": "reference\\ESSYN 3.jpg.jpeg",
+    "bytes": 91338,
+    "kind": "jpeg",
+    "sof": {
+      "precision": 8,
+      "height": 900,
+      "width": 1600,
+      "components": 3
+    },
+    "note": "JPEG carries no alpha channel",
+    "size": [
+      1600,
+      900
+    ],
+    "alpha": {
+      "hist16": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1440000
+      ],
+      "fullyTransparent": 0,
+      "fullyOpaque": 1440000,
+      "partial": 0,
+      "pureBlackTransparent": 0
+    },
+    "dominant": [
+      "#000000 x1238347",
+      "#fdfdfd x33911",
+      "#ffffff x32516",
+      "#010101 x20856",
+      "#020202 x11081",
+      "#fefefe x9752",
+      "#030303 x6907",
+      "#040404 x4402"
+    ],
+    "kmeans": [
+      {
+        "centroid": "#000000",
+        "snapped": "#000000",
+        "at": [
+          0,
+          0
+        ],
+        "share": 91.25
+      },
+      {
+        "centroid": "#fcfcfc",
+        "snapped": "#fcfcfc",
+        "at": [
+          166,
+          43
+        ],
+        "share": 6.53
+      },
+      {
+        "centroid": "#717170",
+        "snapped": "#717171",
+        "at": [
+          207,
+          18
+        ],
+        "share": 0.93
+      },
+      {
+        "centroid": "#3a3a3a",
+        "snapped": "#3a3a3a",
+        "at": [
+          72,
+          44
+        ],
+        "share": 0.72
+      },
+      {
+        "centroid": "#bcbcbc",
+        "snapped": "#bcbcbc",
+        "at": [
+          271,
+          41
+        ],
+        "share": 0.57
+      }
+    ]
+  },
+  {
+    "file": "reference\\ESSYN 4.jpg.jpeg",
+    "bytes": 84540,
+    "kind": "jpeg",
+    "sof": {
+      "precision": 8,
+      "height": 900,
+      "width": 1600,
+      "components": 3
+    },
+    "note": "JPEG carries no alpha channel",
+    "size": [
+      1600,
+      900
+    ],
+    "alpha": {
+      "hist16": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1440000
+      ],
+      "fullyTransparent": 0,
+      "fullyOpaque": 1440000,
+      "partial": 0,
+      "pureBlackTransparent": 0
+    },
+    "dominant": [
+      "#000000 x1257169",
+      "#fdfdfd x33558",
+      "#ffffff x24657",
+      "#010101 x19997",
+      "#020202 x10591",
+      "#fefefe x8680",
+      "#030303 x6391",
+      "#040404 x4087"
+    ],
+    "kmeans": [
+      {
+        "centroid": "#000000",
+        "snapped": "#000000",
+        "at": [
+          0,
+          0
+        ],
+        "share": 92.29
+      },
+      {
+        "centroid": "#fcfcfc",
+        "snapped": "#fcfcfc",
+        "at": [
+          166,
+          43
+        ],
+        "share": 5.76
+      },
+      {
+        "centroid": "#717170",
+        "snapped": "#717171",
+        "at": [
+          207,
+          18
+        ],
+        "share": 0.81
+      },
+      {
+        "centroid": "#3a3a39",
+        "snapped": "#3a3a3a",
+        "at": [
+          72,
+          44
+        ],
+        "share": 0.65
+      },
+      {
+        "centroid": "#bcbcbc",
+        "snapped": "#bcbcbc",
+        "at": [
+          271,
+          41
+        ],
+        "share": 0.5
+      }
+    ]
+  },
+  {
+    "file": "reference\\ESSYN 5.jpg.jpeg",
+    "bytes": 85067,
+    "kind": "jpeg",
+    "sof": {
+      "precision": 8,
+      "height": 900,
+      "width": 1600,
+      "components": 3
+    },
+    "note": "JPEG carries no alpha channel",
+    "size": [
+      1600,
+      900
+    ],
+    "alpha": {
+      "hist16": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1440000
+      ],
+      "fullyTransparent": 0,
+      "fullyOpaque": 1440000,
+      "partial": 0,
+      "pureBlackTransparent": 0
+    },
+    "dominant": [
+      "#000000 x1250453",
+      "#fdfdfd x33821",
+      "#ffffff x28671",
+      "#010101 x20149",
+      "#020202 x10681",
+      "#fefefe x9604",
+      "#030303 x6511",
+      "#040404 x3995"
+    ],
+    "kmeans": [
+      {
+        "centroid": "#000000",
+        "snapped": "#000000",
+        "at": [
+          0,
+          0
+        ],
+        "share": 91.82
+      },
+      {
+        "centroid": "#fdfdfd",
+        "snapped": "#fdfdfd",
+        "at": [
+          131,
+          43
+        ],
+        "share": 6.16
+      },
+      {
+        "centroid": "#717170",
+        "snapped": "#707070",
+        "at": [
+          206,
+          18
+        ],
+        "share": 0.85
+      },
+      {
+        "centroid": "#3a3a39",
+        "snapped": "#3a3a3a",
+        "at": [
+          72,
+          44
+        ],
+        "share": 0.65
+      },
+      {
+        "centroid": "#bcbcbc",
+        "snapped": "#bcbcbc",
+        "at": [
+          271,
+          41
+        ],
+        "share": 0.53
+      }
+    ]
+  },
+  {
+    "file": "reference\\ESSYN 6.jpg.jpeg",
+    "bytes": 91259,
+    "kind": "jpeg",
+    "sof": {
+      "precision": 8,
+      "height": 900,
+      "width": 1600,
+      "components": 3
+    },
+    "note": "JPEG carries no alpha channel",
+    "size": [
+      1600,
+      900
+    ],
+    "alpha": {
+      "hist16": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1440000
+      ],
+      "fullyTransparent": 0,
+      "fullyOpaque": 1440000,
+      "partial": 0,
+      "pureBlackTransparent": 0
+    },
+    "dominant": [
+      "#000000 x1234338",
+      "#ffffff x35238",
+      "#fdfdfd x34151",
+      "#010101 x20883",
+      "#020202 x11374",
+      "#fefefe x10244",
+      "#030303 x6904",
+      "#040404 x4358"
+    ],
+    "kmeans": [
+      {
+        "centroid": "#000000",
+        "snapped": "#000000",
+        "at": [
+          0,
+          0
+        ],
+        "share": 90.98
+      },
+      {
+        "centroid": "#fdfdfd",
+        "snapped": "#fdfdfd",
+        "at": [
+          131,
+          43
+        ],
+        "share": 6.7
+      },
+      {
+        "centroid": "#707070",
+        "snapped": "#707070",
+        "at": [
+          206,
+          18
+        ],
+        "share": 1
+      },
+      {
+        "centroid": "#393939",
+        "snapped": "#393939",
+        "at": [
+          140,
+          43
+        ],
+        "share": 0.71
+      },
+      {
+        "centroid": "#bebebd",
+        "snapped": "#bebebe",
+        "at": [
+          270,
+          41
+        ],
+        "share": 0.61
+      }
+    ]
+  },
+  {
+    "file": "reference\\SAMPUL ESSYN JPG.jpg.jpeg",
+    "bytes": 204414,
+    "kind": "jpeg",
+    "sof": {
+      "precision": 8,
+      "height": 500,
+      "width": 1500,
+      "components": 3
+    },
+    "note": "JPEG carries no alpha channel",
+    "size": [
+      1500,
+      500
+    ],
+    "alpha": {
+      "hist16": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        750000
+      ],
+      "fullyTransparent": 0,
+      "fullyOpaque": 750000,
+      "partial": 0,
+      "pureBlackTransparent": 0
+    },
+    "dominant": [
+      "#000000 x502872",
+      "#010101 x69208",
+      "#010100 x32961",
+      "#020202 x10770",
+      "#030303 x6713",
+      "#000001 x5104",
+      "#fefefe x4419",
+      "#040404 x4270"
+    ],
+    "kmeans": [
+      {
+        "centroid": "#010101",
+        "snapped": "#010101",
+        "at": [
+          5,
+          0
+        ],
+        "share": 90.31
+      },
+      {
+        "centroid": "#212121",
+        "snapped": "#212121",
+        "at": [
+          1324,
+          0
+        ],
+        "share": 5.83
+      },
+      {
+        "centroid": "#fafafa",
+        "snapped": "#fafafa",
+        "at": [
+          547,
+          169
+        ],
+        "share": 3.16
+      },
+      {
+        "centroid": "#777777",
+        "snapped": "#777777",
+        "at": [
+          586,
+          192
+        ],
+        "share": 0.38
+      },
+      {
+        "centroid": "#c0c0c0",
+        "snapped": "#c0c0c0",
+        "at": [
+          583,
+          190
+        ],
+        "share": 0.32
+      }
+    ]
+  }
+]

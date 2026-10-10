@@ -1,0 +1,493 @@
+{
+  "at": "2026-10-10T03:29:51.342Z",
+  "passed": 81,
+  "failed": 0,
+  "results": [
+    {
+      "group": "dist",
+      "name": "register-valid (rule 1)",
+      "pass": true,
+      "detail": "23 records valid"
+    },
+    {
+      "group": "dist",
+      "name": "register-dom (rule 1,2)",
+      "pass": true,
+      "detail": "records, states, dates, social links and contract slot agree with the register"
+    },
+    {
+      "group": "dist",
+      "name": "link-rule (rule 2)",
+      "pass": true,
+      "detail": "no href without a stated record; every url traces to the register"
+    },
+    {
+      "group": "dist",
+      "name": "address-scan (rule 3)",
+      "pass": true,
+      "detail": "every address-shaped string is in the stated register (or inside the exempt contract slot)"
+    },
+    {
+      "group": "dist",
+      "name": "palette (rule 4)",
+      "pass": true,
+      "detail": "6 tokens, each equal to a real pixel; no other colour literal anywhere"
+    },
+    {
+      "group": "dist",
+      "name": "dist-contents (rule -)",
+      "pass": true,
+      "detail": "required files present, no repo files in dist, favicon 32x32 with no double hyphen, no ch units, reduced-motion rule present"
+    },
+    {
+      "group": "dist",
+      "name": "market-module (rule 1,2)",
+      "pass": true,
+      "detail": "market module is live (skeleton rows, register-fed js, CSP, not gated by the contract)"
+    },
+    {
+      "group": "dist",
+      "name": "no-visible-dates (rule -)",
+      "pass": true,
+      "detail": "no date string is visible anywhere on the page or produced by scripts"
+    },
+    {
+      "group": "dist",
+      "name": "copy-original (rule -)",
+      "pass": true,
+      "detail": "no shared 2-gram and no shared content word with the reference (function words exempt)"
+    },
+    {
+      "group": "repo",
+      "name": "repo-hygiene (rule 5)",
+      "pass": true,
+      "detail": "no CLAUDE.md, no .claude, no tooling attribution anywhere"
+    },
+    {
+      "group": "branch A (inert)",
+      "name": "contract slot renders inert and dated",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "branch A (inert)",
+      "name": "no address-shaped string anywhere in output",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "branch A (inert)",
+      "name": "x and github icons render at every breakpoint but inert (no href)",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "branch A (inert)",
+      "name": "register-valid",
+      "pass": true,
+      "detail": "23 records valid"
+    },
+    {
+      "group": "branch A (inert)",
+      "name": "register-dom",
+      "pass": true,
+      "detail": "records, states, dates, social links and contract slot agree with the register"
+    },
+    {
+      "group": "branch A (inert)",
+      "name": "link-rule",
+      "pass": true,
+      "detail": "no href without a stated record; every url traces to the register"
+    },
+    {
+      "group": "branch A (inert)",
+      "name": "address-scan",
+      "pass": true,
+      "detail": "every address-shaped string is in the stated register (or inside the exempt contract slot)"
+    },
+    {
+      "group": "branch A (inert)",
+      "name": "palette",
+      "pass": true,
+      "detail": "6 tokens, each equal to a real pixel; no other colour literal anywhere"
+    },
+    {
+      "group": "branch A (inert)",
+      "name": "dist-contents",
+      "pass": true,
+      "detail": "required files present, no repo files in dist, favicon 32x32 with no double hyphen, no ch units, reduced-motion rule present"
+    },
+    {
+      "group": "branch A (inert)",
+      "name": "market-module",
+      "pass": true,
+      "detail": "market module is live (skeleton rows, register-fed js, CSP, not gated by the contract)"
+    },
+    {
+      "group": "branch A (inert)",
+      "name": "no-visible-dates",
+      "pass": true,
+      "detail": "no date string is visible anywhere on the page or produced by scripts"
+    },
+    {
+      "group": "branch A (inert)",
+      "name": "copy-original",
+      "pass": true,
+      "detail": "no shared 2-gram and no shared content word with the reference (function words exempt)"
+    },
+    {
+      "group": "branch B (stated)",
+      "name": "build accepts a stated contract and stated socials",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "branch B (stated)",
+      "name": "contract slot shows the full address, live copy control",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "branch B (stated)",
+      "name": "x and github are links with href = stored url, handle derived",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "branch B (stated)",
+      "name": "registry json handed to the page carries the stated contract",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "branch B (stated)",
+      "name": "clipboard + rpc wiring present in app.js",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "branch B (stated)",
+      "name": "register-valid",
+      "pass": true,
+      "detail": "23 records valid"
+    },
+    {
+      "group": "branch B (stated)",
+      "name": "register-dom",
+      "pass": true,
+      "detail": "records, states, dates, social links and contract slot agree with the register"
+    },
+    {
+      "group": "branch B (stated)",
+      "name": "link-rule",
+      "pass": true,
+      "detail": "no href without a stated record; every url traces to the register"
+    },
+    {
+      "group": "branch B (stated)",
+      "name": "address-scan",
+      "pass": true,
+      "detail": "every address-shaped string is in the stated register (or inside the exempt contract slot)"
+    },
+    {
+      "group": "branch B (stated)",
+      "name": "palette",
+      "pass": true,
+      "detail": "6 tokens, each equal to a real pixel; no other colour literal anywhere"
+    },
+    {
+      "group": "branch B (stated)",
+      "name": "dist-contents",
+      "pass": true,
+      "detail": "required files present, no repo files in dist, favicon 32x32 with no double hyphen, no ch units, reduced-motion rule present"
+    },
+    {
+      "group": "branch B (stated)",
+      "name": "market-module",
+      "pass": true,
+      "detail": "market module is live (skeleton rows, register-fed js, CSP, not gated by the contract)"
+    },
+    {
+      "group": "branch B (stated)",
+      "name": "no-visible-dates",
+      "pass": true,
+      "detail": "no date string is visible anywhere on the page or produced by scripts"
+    },
+    {
+      "group": "branch B (stated)",
+      "name": "copy-original",
+      "pass": true,
+      "detail": "no shared 2-gram and no shared content word with the reference (function words exempt)"
+    },
+    {
+      "group": "negative",
+      "name": "stray unregistered Solana address in page is caught",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "negative",
+      "name": "removing the stray restores a clean scan",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "negative",
+      "name": "address in page while contract is unstated is caught",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "negative",
+      "name": "href on an unstated social record is caught (register)",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "negative",
+      "name": "href on an unstated social record is caught (link rule)",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "rule 3",
+      "name": "registry accepts a stated 0x address record",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "rule 3",
+      "name": "stated 0x address + short hex constants + 32-byte hash all pass",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "rule 3",
+      "name": "an unregistered 0x address is caught",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "rule 1",
+      "name": "inert ca carrying value is refused at build",
+      "pass": true,
+      "detail": "registry invalid:\n  record ca: inert record must not carry value"
+    },
+    {
+      "group": "rule 1",
+      "name": "inert x carrying url is refused at build",
+      "pass": true,
+      "detail": "registry invalid:\n  record x: inert record must not carry url"
+    },
+    {
+      "group": "rule 1",
+      "name": "inert github carrying url is refused at build",
+      "pass": true,
+      "detail": "registry invalid:\n  record github: inert record must not carry url"
+    },
+    {
+      "group": "rule 1",
+      "name": "inert m.score carrying value is refused at build",
+      "pass": true,
+      "detail": "registry invalid:\n  record m.score: inert record must not carry value"
+    },
+    {
+      "group": "rule 1",
+      "name": "malformed contract value is refused at build",
+      "pass": true,
+      "detail": "registry invalid:\n  record ca: value is not a 32-byte base58 Solana address"
+    },
+    {
+      "group": "rule 2",
+      "name": "a stored handle is refused (handles are derived from the url)",
+      "pass": true,
+      "detail": "registry invalid:\n  record x: handle is derived from url, never stored"
+    },
+    {
+      "group": "rule 2",
+      "name": "a social url on the wrong host is refused",
+      "pass": true,
+      "detail": "registry invalid:\n  record x: url host example.org not accepted"
+    },
+    {
+      "group": "rule 1",
+      "name": "unconfirmed contract builds inert and dated",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "market",
+      "name": "market source not stated: module is inert (no fetch code, no host)",
+      "pass": true,
+      "detail": "market module is inert (no fetch code, no host, disabled buttons, pending slots)"
+    },
+    {
+      "group": "market",
+      "name": "market host leaking into an inert build is caught",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "market",
+      "name": "contract absent: market module is still live",
+      "pass": true,
+      "detail": "market module is live (skeleton rows, register-fed js, CSP, not gated by the contract)"
+    },
+    {
+      "group": "market",
+      "name": "contract stated: market module is live too",
+      "pass": true,
+      "detail": "market module is live (skeleton rows, register-fed js, CSP, not gated by the contract)"
+    },
+    {
+      "group": "market",
+      "name": "contract stated but market source unconfirmed: stays inert",
+      "pass": true,
+      "detail": "market module is inert (no fetch code, no host, disabled buttons, pending slots)"
+    },
+    {
+      "group": "dates",
+      "name": "a visible date is caught",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "market",
+      "name": "inert market record may not carry url or imageHost",
+      "pass": true,
+      "detail": "registry invalid:\n  record market: inert record must not carry url\n  record market: inert record must not carry imageHost"
+    },
+    {
+      "group": "market (browser)",
+      "name": "skeleton rows and skeleton marquee show first, status pill is loading",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "market (browser)",
+      "name": "contract absent, feed still live: ten rows, solana only, ordered by 24h volume (deepest pair), skeletons gone",
+      "pass": true,
+      "detail": "[\"TN\",\"TM\",\"TL\",\"TK\",\"TJ\",\"TI\",\"TH\",\"TG\",\"TF\",\"TE\"]"
+    },
+    {
+      "group": "market (browser)",
+      "name": "contract slot stays inert while the feed is live",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "market (browser)",
+      "name": "count-up lands on the formatted figures: price, 24h change, volume, liquidity",
+      "pass": true,
+      "detail": "[\"$0.000107\",\"▼−12.3%\",\"$140K\",\"$500K\"]"
+    },
+    {
+      "group": "market (browser)",
+      "name": "letter tile when imageUrl is missing or off the stated image host",
+      "pass": true,
+      "detail": "tiles=2 offhost-requests=0"
+    },
+    {
+      "group": "market (browser)",
+      "name": "marquee uses the same data, doubled for a seamless loop, clones hidden from assistive tech",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "market (browser)",
+      "name": "status pill turns live with a pulsing dot",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "market (browser)",
+      "name": "per-row button sends that token address to the clipboard, with feedback",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "market (browser)",
+      "name": "row buttons are 44x44",
+      "pass": true,
+      "detail": "[[44,44],[44,44],[44,44]]"
+    },
+    {
+      "group": "market (browser)",
+      "name": "hero badge: top 3 movers from the shared feed (logo, name, price), contract absent",
+      "pass": true,
+      "detail": "[{\"n\":\"TN\",\"p\":\"$0.000107\",\"logo\":true,\"skel\":false},{\"n\":\"TM\",\"p\":\"$0.000115\",\"logo\":true,\"skel\":false},{\"n\":\"TL\",\"p\":\"$0.000125\",\"logo\":true,\"skel\":false}]"
+    },
+    {
+      "group": "market (browser)",
+      "name": "hero badge: four score bars filled from live market data, values counted up",
+      "pass": true,
+      "detail": "[{\"w\":0.5979893617021277,\"v\":\"60\"},{\"w\":0.6699627659574469,\"v\":\"67\"},{\"w\":0.8069308510638298,\"v\":\"81\"},{\"w\":0.5709787234042553,\"v\":\"57\"}]"
+    },
+    {
+      "group": "market (browser)",
+      "name": "hero badge: live block height from the stated rpc, no skeleton left",
+      "pass": true,
+      "detail": "300,000,044"
+    },
+    {
+      "group": "market (browser)",
+      "name": "spotlight follows the pointer over a row",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "market (browser)",
+      "name": "block height keeps climbing between polls",
+      "pass": true,
+      "detail": "300000208"
+    },
+    {
+      "group": "market (browser)",
+      "name": "a changed value flashes on refresh (and rows are updated in place)",
+      "pass": true,
+      "detail": "flash class applications=40"
+    },
+    {
+      "group": "market (browser)",
+      "name": "prefers-reduced-motion: figures are instant and every animation collapses",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "group": "market (browser)",
+      "name": "backoff doubles 1s, 2s, 4s, 8s across five attempts, then stops",
+      "pass": true,
+      "detail": "[1,2,3,4,5,5]"
+    },
+    {
+      "group": "market (browser)",
+      "name": "after the last failure: dashes in every cell, error pill, retry offered, marquee shows the error",
+      "pass": true,
+      "detail": "Pricing source unavailable after 5 attempts. Figures shown as dashes."
+    },
+    {
+      "group": "market (browser)",
+      "name": "market source unstated: no request reaches the api, controls disabled, slots pending, no marquee track",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "rule 4",
+      "name": "hex literal outside tokens.css is caught",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "rule 4",
+      "name": "rgb() literal outside tokens.css is caught",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "group": "copy",
+      "name": "a shared 2-gram is caught",
+      "pass": true,
+      "detail": ""
+    }
+  ]
+}

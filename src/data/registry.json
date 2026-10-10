@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "records": [
+    { "id": "network", "kind": "chain", "state": "stated", "label": "Network", "name": "Solana", "rpc": "https://solana-rpc.publicnode.com", "source": "client statement", "scope": "batch-level", "statedAt": "2026-10-10" },
+    { "id": "site", "kind": "link", "state": "stated", "label": "Site", "url": "https://essyn.fun", "source": "client statement", "scope": "batch-level", "statedAt": "2026-10-10" },
+    { "id": "market", "kind": "feed", "state": "stated", "label": "Pricing feed", "url": "https://api.dexscreener.com", "imageHost": "cdn.dexscreener.com", "source": "client statement", "scope": "batch-level", "statedAt": "2026-10-10" },
+    { "id": "ca", "kind": "contract", "state": "absent", "label": "Contract", "asOf": "2026-10-10" },
+    { "id": "x", "kind": "social", "state": "absent", "label": "X", "asOf": "2026-10-10" },
+    { "id": "github", "kind": "social", "state": "absent", "label": "GitHub", "asOf": "2026-10-10" },
+
+    { "id": "m.handle", "kind": "metric", "state": "absent", "label": "Handle", "asOf": "2026-10-10" },
+    { "id": "m.number", "kind": "metric", "state": "absent", "label": "Number", "asOf": "2026-10-10" },
+    { "id": "m.score", "kind": "metric", "state": "absent", "label": "Score", "asOf": "2026-10-10" },
+    { "id": "m.result", "kind": "metric", "state": "absent", "label": "30d result", "asOf": "2026-10-10" },
+    { "id": "m.releases", "kind": "metric", "state": "absent", "label": "Releases", "asOf": "2026-10-10" },
+    { "id": "m.graduated", "kind": "metric", "state": "absent", "label": "Graduated", "asOf": "2026-10-10" },
+    { "id": "m.peak", "kind": "metric", "state": "absent", "label": "Top valuation", "asOf": "2026-10-10" },
+    { "id": "m.keys", "kind": "metric", "state": "absent", "label": "Linked keys", "asOf": "2026-10-10" },
+    { "id": "m.hidden", "kind": "metric", "state": "absent", "label": "Hidden keys", "asOf": "2026-10-10" },
+    { "id": "m.position", "kind": "metric", "state": "absent", "label": "Position by score", "asOf": "2026-10-10" },
+    { "id": "m.tenure", "kind": "metric", "state": "absent", "label": "Tracked for", "asOf": "2026-10-10" },
+    { "id": "m.breakdown", "kind": "metric", "state": "absent", "label": "Score breakdown", "asOf": "2026-10-10" },
+
+    { "id": "d.market", "kind": "dataset", "state": "absent", "label": "Top movers", "asOf": "2026-10-10" },
+    { "id": "d.table", "kind": "dataset", "state": "absent", "label": "Standings table", "asOf": "2026-10-10" },
+    { "id": "d.alerts", "kind": "dataset", "state": "absent", "label": "Release alerts", "asOf": "2026-10-10" },
+    { "id": "d.posts", "kind": "dataset", "state": "absent", "label": "Callouts and pitches", "asOf": "2026-10-10" },
+    { "id": "d.concepts", "kind": "dataset", "state": "absent", "label": "Concept board", "asOf": "2026-10-10" }
+  ]
+}

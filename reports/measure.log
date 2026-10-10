@@ -1,0 +1,12 @@
+branch@width | hScroll | header | social x/gh (w x h, rightGap) | CA h / font | h1 | card | stage | small targets | sticky
+absent@360 | false | 64 | 44x44/60 44x44/12 | 64/17px | 32px/69.1 | 320x404 | 320x382.2 | 0 | {"caTop":75,"caInView":true,"socialsInView":true} 
+absent@390 | false | 64 | 44x44/60 44x44/12 | 64/17px | 32px/69.1 | 350x404 | 350x362 | 0 | {"caTop":75,"caInView":true,"socialsInView":true} 
+absent@430 | false | 64 | 44x44/60 44x44/12 | 64/17px | 32px/69.1 | 380x404 | 390x362 | 0 | {"caTop":75,"caInView":true,"socialsInView":true} 
+absent@1366 | false | 64 | 44x44/195 44x44/147 | 71.7/26px | 54px/116.6 | 380x404 | 1056x594 | 0 | {"caTop":75,"caInView":true,"socialsInView":true} 
+absent@1440 | false | 64 | 44x44/232 44x44/184 | 71.7/26px | 54px/116.6 | 380x404 | 1056x594 | 0 | {"caTop":75,"caInView":true,"socialsInView":true} 
+stated@360 | false | 64 | 44x44/60 44x44/12 | 81.7/17px | 32px/69.1 | 320x404 | 320x382.2 | 0 | {"caTop":75,"caInView":true,"socialsInView":true} 
+stated@390 | false | 64 | 44x44/60 44x44/12 | 81.7/17px | 32px/69.1 | 350x404 | 350x362 | 0 | {"caTop":75,"caInView":true,"socialsInView":true} 
+stated@430 | false | 64 | 44x44/60 44x44/12 | 81.7/17px | 32px/69.1 | 380x404 | 390x362 | 0 | {"caTop":75,"caInView":true,"socialsInView":true} 
+stated@1366 | false | 64 | 44x44/195 44x44/147 | 71.7/26px | 54px/116.6 | 380x404 | 1056x594 | 0 | {"caTop":75,"caInView":true,"socialsInView":true} 
+stated@1440 | false | 64 | 44x44/232 44x44/184 | 71.7/26px | 54px/116.6 | 380x404 | 1056x594 | 0 | {"caTop":75,"caInView":true,"socialsInView":true} 
+measure_exit=0

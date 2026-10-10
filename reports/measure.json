@@ -1,0 +1,1012 @@
+{
+  "absent@360": {
+    "vw": 360,
+    "scrollW": 360,
+    "hScroll": false,
+    "header": {
+      "x": 0,
+      "y": 0,
+      "w": 360,
+      "h": 64
+    },
+    "top": {
+      "x": 0,
+      "y": 0,
+      "w": 360,
+      "h": 150
+    },
+    "social": [
+      {
+        "id": "x",
+        "x": 256,
+        "y": 10,
+        "w": 44,
+        "h": 44,
+        "visible": true,
+        "rightGap": 60,
+        "tag": "span",
+        "href": null
+      },
+      {
+        "id": "github",
+        "x": 304,
+        "y": 10,
+        "w": 44,
+        "h": 44,
+        "visible": true,
+        "rightGap": 12,
+        "tag": "span",
+        "href": null
+      }
+    ],
+    "ca": {
+      "x": 20,
+      "y": 75,
+      "w": 320,
+      "h": 64,
+      "valueFont": "17px",
+      "valueText": 7,
+      "valueBox": {
+        "x": 20,
+        "y": 96,
+        "w": 264,
+        "h": 21.3
+      },
+      "fullyVisible": true,
+      "textClipped": false
+    },
+    "smallTargets": [],
+    "h1": {
+      "x": 20,
+      "y": 230,
+      "w": 320,
+      "h": 69.1,
+      "font": "32px",
+      "lh": "34.56px",
+      "ls": "-1.12px"
+    },
+    "card": {
+      "x": 20,
+      "y": 605,
+      "w": 320,
+      "h": 404
+    },
+    "container": {
+      "x": 0,
+      "y": 150,
+      "w": 360,
+      "h": 1018.8
+    },
+    "h2": "26px",
+    "h3": "22px",
+    "stage": {
+      "x": 20,
+      "y": 1399,
+      "w": 320,
+      "h": 382.2
+    },
+    "tabs": [
+      44,
+      44,
+      44,
+      44,
+      44
+    ],
+    "docH": 7892,
+    "overflowing": [],
+    "stickyAfterScroll": {
+      "caTop": 75,
+      "caInView": true,
+      "socialsInView": true
+    }
+  },
+  "absent@390": {
+    "vw": 390,
+    "scrollW": 390,
+    "hScroll": false,
+    "header": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 64
+    },
+    "top": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 150
+    },
+    "social": [
+      {
+        "id": "x",
+        "x": 286,
+        "y": 10,
+        "w": 44,
+        "h": 44,
+        "visible": true,
+        "rightGap": 60,
+        "tag": "span",
+        "href": null
+      },
+      {
+        "id": "github",
+        "x": 334,
+        "y": 10,
+        "w": 44,
+        "h": 44,
+        "visible": true,
+        "rightGap": 12,
+        "tag": "span",
+        "href": null
+      }
+    ],
+    "ca": {
+      "x": 20,
+      "y": 75,
+      "w": 350,
+      "h": 64,
+      "valueFont": "17px",
+      "valueText": 7,
+      "valueBox": {
+        "x": 20,
+        "y": 96,
+        "w": 294,
+        "h": 21.3
+      },
+      "fullyVisible": true,
+      "textClipped": false
+    },
+    "smallTargets": [],
+    "h1": {
+      "x": 20,
+      "y": 210,
+      "w": 350,
+      "h": 69.1,
+      "font": "32px",
+      "lh": "34.56px",
+      "ls": "-1.12px"
+    },
+    "card": {
+      "x": 20,
+      "y": 586,
+      "w": 350,
+      "h": 404
+    },
+    "container": {
+      "x": 0,
+      "y": 150,
+      "w": 390,
+      "h": 998.8
+    },
+    "h2": "26px",
+    "h3": "22px",
+    "stage": {
+      "x": 20,
+      "y": 1379,
+      "w": 350,
+      "h": 362
+    },
+    "tabs": [
+      44,
+      44,
+      44,
+      44,
+      44
+    ],
+    "docH": 7770,
+    "overflowing": [],
+    "stickyAfterScroll": {
+      "caTop": 75,
+      "caInView": true,
+      "socialsInView": true
+    }
+  },
+  "absent@430": {
+    "vw": 430,
+    "scrollW": 430,
+    "hScroll": false,
+    "header": {
+      "x": 0,
+      "y": 0,
+      "w": 430,
+      "h": 64
+    },
+    "top": {
+      "x": 0,
+      "y": 0,
+      "w": 430,
+      "h": 150
+    },
+    "social": [
+      {
+        "id": "x",
+        "x": 326,
+        "y": 10,
+        "w": 44,
+        "h": 44,
+        "visible": true,
+        "rightGap": 60,
+        "tag": "span",
+        "href": null
+      },
+      {
+        "id": "github",
+        "x": 374,
+        "y": 10,
+        "w": 44,
+        "h": 44,
+        "visible": true,
+        "rightGap": 12,
+        "tag": "span",
+        "href": null
+      }
+    ],
+    "ca": {
+      "x": 20,
+      "y": 75,
+      "w": 390,
+      "h": 64,
+      "valueFont": "17px",
+      "valueText": 7,
+      "valueBox": {
+        "x": 20,
+        "y": 96,
+        "w": 334,
+        "h": 21.3
+      },
+      "fullyVisible": true,
+      "textClipped": false
+    },
+    "smallTargets": [],
+    "h1": {
+      "x": 20,
+      "y": 210,
+      "w": 390,
+      "h": 69.1,
+      "font": "32px",
+      "lh": "34.56px",
+      "ls": "-1.12px"
+    },
+    "card": {
+      "x": 25,
+      "y": 502,
+      "w": 380,
+      "h": 404
+    },
+    "container": {
+      "x": 0,
+      "y": 150,
+      "w": 430,
+      "h": 912.2
+    },
+    "h2": "26px",
+    "h3": "22px",
+    "stage": {
+      "x": 20,
+      "y": 1292,
+      "w": 390,
+      "h": 362
+    },
+    "tabs": [
+      44,
+      44,
+      44,
+      44,
+      44
+    ],
+    "docH": 7323,
+    "overflowing": [],
+    "stickyAfterScroll": {
+      "caTop": 75,
+      "caInView": true,
+      "socialsInView": true
+    }
+  },
+  "absent@1366": {
+    "vw": 1366,
+    "scrollW": 1366,
+    "hScroll": false,
+    "header": {
+      "x": 0,
+      "y": 0,
+      "w": 1366,
+      "h": 64
+    },
+    "top": {
+      "x": 0,
+      "y": 0,
+      "w": 1366,
+      "h": 157.7
+    },
+    "social": [
+      {
+        "id": "x",
+        "x": 1127,
+        "y": 10,
+        "w": 44,
+        "h": 44,
+        "visible": true,
+        "rightGap": 195,
+        "tag": "span",
+        "href": null
+      },
+      {
+        "id": "github",
+        "x": 1175,
+        "y": 10,
+        "w": 44,
+        "h": 44,
+        "visible": true,
+        "rightGap": 147,
+        "tag": "span",
+        "href": null
+      }
+    ],
+    "ca": {
+      "x": 155,
+      "y": 75,
+      "w": 1056,
+      "h": 71.7,
+      "valueFont": "26px",
+      "valueText": 7,
+      "valueBox": {
+        "x": 155,
+        "y": 94,
+        "w": 1000,
+        "h": 32.5
+      },
+      "fullyVisible": true,
+      "textClipped": false
+    },
+    "smallTargets": [],
+    "h1": {
+      "x": 155,
+      "y": 410,
+      "w": 496,
+      "h": 116.6,
+      "font": "54px",
+      "lh": "58.32px",
+      "ls": "-1.89px"
+    },
+    "card": {
+      "x": 773,
+      "y": 290,
+      "w": 380,
+      "h": 404
+    },
+    "container": {
+      "x": 123,
+      "y": 158,
+      "w": 1120,
+      "h": 772
+    },
+    "h2": "36px",
+    "h3": "28px",
+    "stage": {
+      "x": 155,
+      "y": 1192,
+      "w": 1056,
+      "h": 594
+    },
+    "tabs": [
+      44,
+      44,
+      44,
+      44,
+      44
+    ],
+    "docH": 6991,
+    "overflowing": [],
+    "stickyAfterScroll": {
+      "caTop": 75,
+      "caInView": true,
+      "socialsInView": true
+    }
+  },
+  "absent@1440": {
+    "vw": 1440,
+    "scrollW": 1440,
+    "hScroll": false,
+    "header": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 64
+    },
+    "top": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 157.7
+    },
+    "social": [
+      {
+        "id": "x",
+        "x": 1164,
+        "y": 10,
+        "w": 44,
+        "h": 44,
+        "visible": true,
+        "rightGap": 232,
+        "tag": "span",
+        "href": null
+      },
+      {
+        "id": "github",
+        "x": 1212,
+        "y": 10,
+        "w": 44,
+        "h": 44,
+        "visible": true,
+        "rightGap": 184,
+        "tag": "span",
+        "href": null
+      }
+    ],
+    "ca": {
+      "x": 192,
+      "y": 75,
+      "w": 1056,
+      "h": 71.7,
+      "valueFont": "26px",
+      "valueText": 7,
+      "valueBox": {
+        "x": 192,
+        "y": 94,
+        "w": 1000,
+        "h": 32.5
+      },
+      "fullyVisible": true,
+      "textClipped": false
+    },
+    "smallTargets": [],
+    "h1": {
+      "x": 192,
+      "y": 410,
+      "w": 496,
+      "h": 116.6,
+      "font": "54px",
+      "lh": "58.32px",
+      "ls": "-1.89px"
+    },
+    "card": {
+      "x": 810,
+      "y": 288,
+      "w": 380,
+      "h": 404
+    },
+    "container": {
+      "x": 160,
+      "y": 158,
+      "w": 1120,
+      "h": 772
+    },
+    "h2": "36px",
+    "h3": "28px",
+    "stage": {
+      "x": 192,
+      "y": 1192,
+      "w": 1056,
+      "h": 594
+    },
+    "tabs": [
+      44,
+      44,
+      44,
+      44,
+      44
+    ],
+    "docH": 6991,
+    "overflowing": [],
+    "stickyAfterScroll": {
+      "caTop": 75,
+      "caInView": true,
+      "socialsInView": true
+    }
+  },
+  "stated@360": {
+    "vw": 360,
+    "scrollW": 360,
+    "hScroll": false,
+    "header": {
+      "x": 0,
+      "y": 0,
+      "w": 360,
+      "h": 64
+    },
+    "top": {
+      "x": 0,
+      "y": 0,
+      "w": 360,
+      "h": 167.7
+    },
+    "social": [
+      {
+        "id": "x",
+        "x": 256,
+        "y": 10,
+        "w": 44,
+        "h": 44,
+        "visible": true,
+        "rightGap": 60,
+        "tag": "span",
+        "href": null
+      },
+      {
+        "id": "github",
+        "x": 304,
+        "y": 10,
+        "w": 44,
+        "h": 44,
+        "visible": true,
+        "rightGap": 12,
+        "tag": "span",
+        "href": null
+      }
+    ],
+    "ca": {
+      "x": 20,
+      "y": 75,
+      "w": 320,
+      "h": 81.7,
+      "valueFont": "17px",
+      "valueText": 44,
+      "valueBox": {
+        "x": 20,
+        "y": 94,
+        "w": 264,
+        "h": 42.5
+      },
+      "fullyVisible": true,
+      "textClipped": false
+    },
+    "smallTargets": [],
+    "h1": {
+      "x": 20,
+      "y": 248,
+      "w": 320,
+      "h": 69.1,
+      "font": "32px",
+      "lh": "34.56px",
+      "ls": "-1.12px"
+    },
+    "card": {
+      "x": 20,
+      "y": 621,
+      "w": 320,
+      "h": 404
+    },
+    "container": {
+      "x": 0,
+      "y": 168,
+      "w": 360,
+      "h": 1018.8
+    },
+    "h2": "26px",
+    "h3": "22px",
+    "stage": {
+      "x": 20,
+      "y": 1416,
+      "w": 320,
+      "h": 382.2
+    },
+    "tabs": [
+      44,
+      44,
+      44,
+      44,
+      44
+    ],
+    "docH": 7909,
+    "overflowing": [],
+    "stickyAfterScroll": {
+      "caTop": 75,
+      "caInView": true,
+      "socialsInView": true
+    }
+  },
+  "stated@390": {
+    "vw": 390,
+    "scrollW": 390,
+    "hScroll": false,
+    "header": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 64
+    },
+    "top": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 167.7
+    },
+    "social": [
+      {
+        "id": "x",
+        "x": 286,
+        "y": 10,
+        "w": 44,
+        "h": 44,
+        "visible": true,
+        "rightGap": 60,
+        "tag": "span",
+        "href": null
+      },
+      {
+        "id": "github",
+        "x": 334,
+        "y": 10,
+        "w": 44,
+        "h": 44,
+        "visible": true,
+        "rightGap": 12,
+        "tag": "span",
+        "href": null
+      }
+    ],
+    "ca": {
+      "x": 20,
+      "y": 75,
+      "w": 350,
+      "h": 81.7,
+      "valueFont": "17px",
+      "valueText": 44,
+      "valueBox": {
+        "x": 20,
+        "y": 94,
+        "w": 294,
+        "h": 42.5
+      },
+      "fullyVisible": true,
+      "textClipped": false
+    },
+    "smallTargets": [],
+    "h1": {
+      "x": 20,
+      "y": 228,
+      "w": 350,
+      "h": 69.1,
+      "font": "32px",
+      "lh": "34.56px",
+      "ls": "-1.12px"
+    },
+    "card": {
+      "x": 20,
+      "y": 606,
+      "w": 350,
+      "h": 404
+    },
+    "container": {
+      "x": 0,
+      "y": 168,
+      "w": 390,
+      "h": 998.8
+    },
+    "h2": "26px",
+    "h3": "22px",
+    "stage": {
+      "x": 20,
+      "y": 1396,
+      "w": 350,
+      "h": 362
+    },
+    "tabs": [
+      44,
+      44,
+      44,
+      44,
+      44
+    ],
+    "docH": 7787,
+    "overflowing": [],
+    "stickyAfterScroll": {
+      "caTop": 75,
+      "caInView": true,
+      "socialsInView": true
+    }
+  },
+  "stated@430": {
+    "vw": 430,
+    "scrollW": 430,
+    "hScroll": false,
+    "header": {
+      "x": 0,
+      "y": 0,
+      "w": 430,
+      "h": 64
+    },
+    "top": {
+      "x": 0,
+      "y": 0,
+      "w": 430,
+      "h": 167.7
+    },
+    "social": [
+      {
+        "id": "x",
+        "x": 326,
+        "y": 10,
+        "w": 44,
+        "h": 44,
+        "visible": true,
+        "rightGap": 60,
+        "tag": "span",
+        "href": null
+      },
+      {
+        "id": "github",
+        "x": 374,
+        "y": 10,
+        "w": 44,
+        "h": 44,
+        "visible": true,
+        "rightGap": 12,
+        "tag": "span",
+        "href": null
+      }
+    ],
+    "ca": {
+      "x": 20,
+      "y": 75,
+      "w": 390,
+      "h": 81.7,
+      "valueFont": "17px",
+      "valueText": 44,
+      "valueBox": {
+        "x": 20,
+        "y": 94,
+        "w": 334,
+        "h": 42.5
+      },
+      "fullyVisible": true,
+      "textClipped": false
+    },
+    "smallTargets": [],
+    "h1": {
+      "x": 20,
+      "y": 228,
+      "w": 390,
+      "h": 69.1,
+      "font": "32px",
+      "lh": "34.56px",
+      "ls": "-1.12px"
+    },
+    "card": {
+      "x": 25,
+      "y": 521,
+      "w": 380,
+      "h": 404
+    },
+    "container": {
+      "x": 0,
+      "y": 168,
+      "w": 430,
+      "h": 912.2
+    },
+    "h2": "26px",
+    "h3": "22px",
+    "stage": {
+      "x": 20,
+      "y": 1310,
+      "w": 390,
+      "h": 362
+    },
+    "tabs": [
+      44,
+      44,
+      44,
+      44,
+      44
+    ],
+    "docH": 7341,
+    "overflowing": [],
+    "stickyAfterScroll": {
+      "caTop": 75,
+      "caInView": true,
+      "socialsInView": true
+    }
+  },
+  "stated@1366": {
+    "vw": 1366,
+    "scrollW": 1366,
+    "hScroll": false,
+    "header": {
+      "x": 0,
+      "y": 0,
+      "w": 1366,
+      "h": 64
+    },
+    "top": {
+      "x": 0,
+      "y": 0,
+      "w": 1366,
+      "h": 157.7
+    },
+    "social": [
+      {
+        "id": "x",
+        "x": 1127,
+        "y": 10,
+        "w": 44,
+        "h": 44,
+        "visible": true,
+        "rightGap": 195,
+        "tag": "span",
+        "href": null
+      },
+      {
+        "id": "github",
+        "x": 1175,
+        "y": 10,
+        "w": 44,
+        "h": 44,
+        "visible": true,
+        "rightGap": 147,
+        "tag": "span",
+        "href": null
+      }
+    ],
+    "ca": {
+      "x": 155,
+      "y": 75,
+      "w": 1056,
+      "h": 71.7,
+      "valueFont": "26px",
+      "valueText": 44,
+      "valueBox": {
+        "x": 155,
+        "y": 94,
+        "w": 1000,
+        "h": 32.5
+      },
+      "fullyVisible": true,
+      "textClipped": false
+    },
+    "smallTargets": [],
+    "h1": {
+      "x": 155,
+      "y": 410,
+      "w": 496,
+      "h": 116.6,
+      "font": "54px",
+      "lh": "58.32px",
+      "ls": "-1.89px"
+    },
+    "card": {
+      "x": 773,
+      "y": 287,
+      "w": 380,
+      "h": 404
+    },
+    "container": {
+      "x": 123,
+      "y": 158,
+      "w": 1120,
+      "h": 772
+    },
+    "h2": "36px",
+    "h3": "28px",
+    "stage": {
+      "x": 155,
+      "y": 1192,
+      "w": 1056,
+      "h": 594
+    },
+    "tabs": [
+      44,
+      44,
+      44,
+      44,
+      44
+    ],
+    "docH": 6991,
+    "overflowing": [],
+    "stickyAfterScroll": {
+      "caTop": 75,
+      "caInView": true,
+      "socialsInView": true
+    }
+  },
+  "stated@1440": {
+    "vw": 1440,
+    "scrollW": 1440,
+    "hScroll": false,
+    "header": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 64
+    },
+    "top": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 157.7
+    },
+    "social": [
+      {
+        "id": "x",
+        "x": 1164,
+        "y": 10,
+        "w": 44,
+        "h": 44,
+        "visible": true,
+        "rightGap": 232,
+        "tag": "span",
+        "href": null
+      },
+      {
+        "id": "github",
+        "x": 1212,
+        "y": 10,
+        "w": 44,
+        "h": 44,
+        "visible": true,
+        "rightGap": 184,
+        "tag": "span",
+        "href": null
+      }
+    ],
+    "ca": {
+      "x": 192,
+      "y": 75,
+      "w": 1056,
+      "h": 71.7,
+      "valueFont": "26px",
+      "valueText": 44,
+      "valueBox": {
+        "x": 192,
+        "y": 94,
+        "w": 1000,
+        "h": 32.5
+      },
+      "fullyVisible": true,
+      "textClipped": false
+    },
+    "smallTargets": [],
+    "h1": {
+      "x": 192,
+      "y": 410,
+      "w": 496,
+      "h": 116.6,
+      "font": "54px",
+      "lh": "58.32px",
+      "ls": "-1.89px"
+    },
+    "card": {
+      "x": 810,
+      "y": 290,
+      "w": 380,
+      "h": 404
+    },
+    "container": {
+      "x": 160,
+      "y": 158,
+      "w": 1120,
+      "h": 772
+    },
+    "h2": "36px",
+    "h3": "28px",
+    "stage": {
+      "x": 192,
+      "y": 1192,
+      "w": 1056,
+      "h": 594
+    },
+    "tabs": [
+      44,
+      44,
+      44,
+      44,
+      44
+    ],
+    "docH": 6991,
+    "overflowing": [],
+    "stickyAfterScroll": {
+      "caTop": 75,
+      "caInView": true,
+      "socialsInView": true
+    }
+  }
+}
